@@ -1,0 +1,8 @@
+tensorflow==2.14.0
+pandas==1.5.3
+numpy==1.23.5
+pillow==9.5.0
+flask==2.2.5
+functions-framework==3.4.0
+google-cloud-storage==2.10.0
+transformers==4.37.2
